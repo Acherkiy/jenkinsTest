@@ -5,7 +5,7 @@
     <classes>
       <class name=".TestCase2"/>
       <class name=".TestCase3"/>
-      <class name=".TestCaseOne"/>
+      <!-- <class name=".TestCaseOne"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -28,7 +28,6 @@ public class TestCase2 {
 		Thread.sleep(7000);
 		driver.get("http:/www.linkedin.com");
 		Thread.sleep(7000);
-		Thread.sleep(7000);
 		driver.findElement(By.cssSelector(".link-forgot-password")).click();
 
 		// driver.findElement(By.id("u_0_s")).sendKeys("testTest");
